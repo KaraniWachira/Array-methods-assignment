@@ -22,9 +22,4 @@
     let difference  = difference(array1, array2);
     console.log(difference);
 
-
-
-
-
-
-
+}
